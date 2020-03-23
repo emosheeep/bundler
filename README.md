@@ -370,7 +370,9 @@ bundle('./src/main.js')
 <div id="app"></div>
 <script src="./vendors.js"></script>
 ```
+
 结果如下：
+
 ![动画效果](https://user-gold-cdn.xitu.io/2020/3/23/171072cc87bb2530?w=405&h=328&f=gif&s=282117)
 
 ![控制台](https://user-gold-cdn.xitu.io/2020/3/23/171072d508f511bc?w=368&h=147&f=png&s=6294)
