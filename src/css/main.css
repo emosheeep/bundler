@@ -1,0 +1,19 @@
+#app {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: breath 2s ease infinite;
+}
+@keyframes breath {
+    from, to {
+        width: 100px;
+        height: 100px;
+        background-color: black;
+    }
+    50% {
+        width: 200px;
+        height: 200px;
+        background-color: red;
+    }
+}
